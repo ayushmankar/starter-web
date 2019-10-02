@@ -19,3 +19,5 @@ Latest changes are here.
 ##Copyright section
 
 New section
+
+##How to contribute
