@@ -15,3 +15,7 @@ This is an example of deployment
 Latest changes are here.
 
 ## Last change
+
+##Copyright section
+
+New section
